@@ -1,3 +1,5 @@
+github.com/SebastiaanKlippert/go-wkhtmltopdf v1.4.1 h1:FE2j8S+Vc940yzOJRVzIXqZ5HPU8Q1uCp/OCqpn6Fn0=
+github.com/SebastiaanKlippert/go-wkhtmltopdf v1.4.1/go.mod h1:znvMDEscpKbLTNRORqvA76YzfiCQBqtumbeqA/BI1fQ=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/labstack/echo v3.3.10+incompatible h1:pGRcYk231ExFAyoAjAfD85kQzRJCRI8bbnE7CX5OEgg=
